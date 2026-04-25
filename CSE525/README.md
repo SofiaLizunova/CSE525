@@ -28,6 +28,8 @@ Can a TMY-STR-based analytics pipeline provide evidence that the existing line c
 3. SQL scripts perform transformations and calculations.
 4. Python queries the database and prepares outputs.
 5. Results are presented in the prototype/dashboard.
+   
+The excel file can be found in this link: https://alucutac-my.sharepoint.com/:x:/g/personal/soa_christodoulou_edu_cut_ac_cy/IQBEkI91Gj4zQKqZhfydRxjnAZ1x9IVpzLLgxyRyWmZbpkw?e=XP8uiA
 
 ## Repository Structure
 ```text
